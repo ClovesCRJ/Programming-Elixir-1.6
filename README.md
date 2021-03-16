@@ -3,6 +3,6 @@
 Functional
 |> Concurrent
 |> Pragmatic
-|> Fun 1st Edition
+|> Fun
 
-by Dave Thomas
+1st Edition by Dave Thomas
